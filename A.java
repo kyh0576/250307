@@ -5,4 +5,5 @@ public class A{
   String kyh = "다시 kyh브랜치 와서 값 수정함"
   double d = 15.3;
   int c = 9;
+  double d = 10.98;
 }
