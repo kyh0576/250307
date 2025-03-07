@@ -1,6 +1,6 @@
 public class A{
   int a = 10;
-  String str = "고영훈 친구많음 이거는 로컬에서 수정함";
+  String str = "나는 로그인 기능 개발자~";
   int age = 26;
   String kyh = "다시 kyh브랜치 와서 값 수정함"
   double d = 15.3;
