@@ -6,4 +6,5 @@ public class A{
   double d = 15.3;
   int c = 9;
   double d = 12.2;
+  double e = 3.4;
 }
